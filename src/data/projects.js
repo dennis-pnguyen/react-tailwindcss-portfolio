@@ -20,8 +20,8 @@ export const projectsData = [
   },
   {
     id: 2,
-    title: "Phoenix Digital Agency",
-    category: "Mobile Application",
+    title: "PokéDen",
+    category: "Web Application",
     img: MobileImage2,
   },
   //   {

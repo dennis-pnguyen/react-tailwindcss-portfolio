@@ -64,7 +64,7 @@ export const singleProjectData = {
     ],
     ObjectivesHeading: "Objective",
     ObjectivesDetails:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.",
+      "To create a Fullstack web application using the tools & technologies we were taught during our 14 week accelerated coding bootcamp program.",
     Technologies: [
       {
         title: "Tools & Technologies",
@@ -72,33 +72,33 @@ export const singleProjectData = {
           "HTML",
           "CSS",
           "JavaScript",
-          "Vue.js",
-          "TailwindCSS",
-          "AdobeXD",
+          "Bootstrap 5",
+          "React",
+          "Express",
+          "PostgreSQL",
         ],
       },
     ],
-    ProjectDetailsHeading: "Challenge",
+    ProjectDetailsHeading: "Description",
     ProjectDetails: [
       {
         id: 1,
         details:
-          "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+          "Our objective was to create a Fullstack Web Application using React on the Frontend and Express, Node, PostgreSQL for the backend. This allowed me to create an application where game enthusiasts could review top rated games. A robust user authentication was implmented to safeguard user data and privacy. Guest login was also implemented for those users who did not want to sign up!",
       },
       {
         id: 2,
         details:
-          "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
+          "I was able to find a friendly API to incorporate within my application that allowed me to dynamically render data based on their community votings on games. This project will always hold a special place in my development career. While working on the project, it was incredible to finally see everything that we had learned in the past 14 weeks come together as the Frontend and Backend were seemlessly communicating with each other.",
       },
       {
         id: 3,
         details:
-          "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
+          "My favorite part about this project was being able to present the product to our cohort and faculty. Our mock technical presentation helped to emulate how it would be in the real world during meetings and technical presentations with stakeholders of the company.",
       },
       {
         id: 4,
-        details:
-          "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+        details: "",
       },
     ],
     SocialSharingHeading: "Share This",
@@ -107,13 +107,13 @@ export const singleProjectData = {
         id: 1,
         name: "Twitter",
         icon: <FiTwitter />,
-        url: "https://twitter.com/realstoman",
+        url: "https://twitter.com/",
       },
       {
         id: 2,
         name: "Instagram",
         icon: <FiInstagram />,
-        url: "https://instagram.com/realstoman",
+        url: "https://instagram.com/",
       },
       {
         id: 3,
@@ -131,7 +131,7 @@ export const singleProjectData = {
         id: 5,
         name: "Youtube",
         icon: <FiYoutube />,
-        url: "https://www.youtube.com/c/StomanStudio",
+        url: "https://www.youtube.com/",
       },
     ],
   },
